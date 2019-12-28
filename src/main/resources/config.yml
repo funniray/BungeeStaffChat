@@ -1,0 +1,2 @@
+messageformat: "[Staff-Chat] %displayname% > %message%"
+hoverformat: "Server: %server%\nClick to join"

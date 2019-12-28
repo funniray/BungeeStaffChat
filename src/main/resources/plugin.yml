@@ -1,0 +1,8 @@
+name: Bungeestaffchat
+version: ${project.version}
+main: com.funniray.bungeestaffchat.SpigotMain
+api-version: 1.13
+authors: [Funniray]
+description: Staff chat that's compadible with Bungeecord
+website: https://funniray.com
+depend: ["LuckPerms", "Essentials", "Vault"]

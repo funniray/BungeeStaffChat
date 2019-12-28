@@ -1,0 +1,6 @@
+name: Bungeestaffchat
+version: ${project.version}
+main: com.funniray.bungeestaffchat.BungeeMain
+authors: [Funniray]
+description: Staff chat that's compadible with Bungeecord
+website: https://funniray.com
